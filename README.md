@@ -104,7 +104,7 @@
 "image":"https://www.dropbox.com/s/ftmhrl7laf4o2pe/1676279109866.gif?dl=1",
 "url":"https://drive.google.com/uc?id=1vhIkuoHI2fa8rI6P0qvKGx6uLSG8HXzo",
 "import":false},
-
+]}, 
 
 {
 "name":"𝕊𝕚𝕥𝕔𝕠𝕄",
